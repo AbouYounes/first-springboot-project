@@ -9,6 +9,6 @@ public class HelloServiceImpl implements HelloService {
 
     @Override
     public String sayHello() {
-        return "Hello SpringBoot!";
+        return "Hello Spring Boot!";
     }
 }
